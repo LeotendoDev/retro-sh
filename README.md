@@ -1,2 +1,3 @@
-# retro-sh
-A retro style shell
+# RSH - Retro Shell
+A retro style shell written in C.
+
